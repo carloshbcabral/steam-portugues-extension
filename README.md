@@ -5,6 +5,9 @@ Extensão para navegadores Chromium que corrige a nomenclatura do Steam, que uti
 
 # Como Instalar
 Como não sou pobre, a extensão foi submitada ao Chrome Web Store.
+Quando a verificação for concluída, estará disponível neste link:
+https://chromewebstore.google.com/detail/pjcnikbhokilfggngamjcafkkbhlokie/
+
 Enquanto está sendo verificada, segue as instruções de instalação:
 1. Baixe este repositório como um arquivo compactado (.zip)
 2. Extraia o arquivo.

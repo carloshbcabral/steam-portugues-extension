@@ -13,8 +13,8 @@
     },
     "content_scripts": [
         {
-          "js": ["change-language.js"],
-          "matches": ["https://store.steampowered.com/*"]
+            "js": ["change-language.js"],
+            "matches": ["https://store.steampowered.com/*"]
         }
     ]
 }
