@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Steam Português - Versão Lusófona",
     "version": "1.0.0",
-    "description": "Corrige a nomenclatura do Steam, que utiliza os termos Português (Portugal) e Português (Brasil), para a versão correta, o Português (Tradicional) e Português (Simplificado).",
+    "description": "Corrige a nomenclatura do Steam para a versão correta, Português (Tradicional) e Português (Simplificado).",
     "action": {
         "default_icon": {
             "16": "./icons/icon16.png",
