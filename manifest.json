@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Steam Brasileira - Corretor de Língua",
+    "name": "Steam Português - Versão Lusófona",
     "version": "1.0.0",
-    "description": "Corrige a nomenclatura colonizada da loja Steam, que utiliza o termo Português, para a versão correta, o Brasileiro.",
+    "description": "Corrige a nomenclatura do Steam, que utiliza os termos Português (Portugal) e Português (Brasil), para a versão correta, o Português (Tradicional) e Português (Simplificado).",
     "action": {
         "default_icon": {
             "16": "./icons/icon16.png",

@@ -1,10 +1,11 @@
-# Steam Brasileira - Corretor de Língua
-Extensão para navegadores Chromium que corrige a nomenclatura colonizada da loja Steam, que utiliza o termo Português, para a versão correta, o Brasileiro.
+# Steam Português - Versão Lusófona
+Extensão para navegadores Chromium que corrige a nomenclatura do Steam, que utiliza os termos Português (Portugal) e Português (Brasil), para a versão correta, o Português (Tradicional) e Português (Simplificado).
 
-![garota de anime com camisa do brasil com um copo e uma skol na mão e um boné azul escrito brasileiro](https://github.com/Vinicius-Pereira/steam-brasileira-extension/assets/25609920/f8f1c770-2c4a-4de5-b02c-bdeaaf5859ae)
+![Yui Hirasawa do anime K-On! com sweat da seleção de Portugal com um copo e uma garrafa de Super Bock na mão e um chapéu de palha.](https://raw.githubusercontent.com/carloshbcabral/steam-portugues-extension/main/yui_hirasawa_portugal.png)
 
 # Como Instalar
-Como eu não vou pagar 5 dólares para colocar isso na loja de bilionário, segue as instruções de instalação:
+Como não sou pobre, a extensão foi submitada ao Chrome Web Store.
+Enquanto está sendo verificada, segue as instruções de instalação:
 1. Baixe este repositório como um arquivo compactado (.zip)
 2. Extraia o arquivo.
 3. Vá até sua página de extensões do navegador (no chrome é chrome://extensions/) e ative as opções de desenvolvedor.
@@ -13,5 +14,5 @@ Como eu não vou pagar 5 dólares para colocar isso na loja de bilionário, segu
 6. Seja feliz!
 
 # Demonstração
-![Página da Steam Antes e Depois da Extensão](https://github.com/Vinicius-Pereira/steam-brasileira-extension/assets/25609920/b9171437-cdce-496d-9068-bbd3b4a93d24)
+![Página do Steam antes e depois da extensão](https://raw.githubusercontent.com/carloshbcabral/steam-portugues-extension/main/before_after.png)
 

@@ -6,11 +6,11 @@ linhas.forEach(function(objeto, indice)
     {
         if (coluna.innerHTML.trim() == "Português (Brasil)")
         {
-            coluna.innerHTML = "Brasileiro";
+            coluna.innerHTML = "Português (Simplificado)";
         }
         if (coluna.innerHTML.trim() == "Português (Portugal)")
         {
-            coluna.innerHTML = "Brasileiro (Europeu)";
+            coluna.innerHTML = "Português (Tradicional)";
         }
     }
 });
